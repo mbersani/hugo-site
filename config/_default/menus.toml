@@ -9,19 +9,49 @@
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Objectives"
+  url = "#objectives"
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Inspiration"
+  url = "#inspiration"
+  weight = 25
+
+[[main]]
+  name = "FM Courses"
+  url = "#fm-courses"
   weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "Events"
+  url = "#events"
+  weight = 35
+
+[[main]]
+  name = "Members"
+  url = "#members"
   weight = 40
+
+[[main]]
+  name = "Meetings"
+  url = "#meetings"
+  weight = 50
+
+#[[main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 20
+
+#[[main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 30
+
+#[[main]]
+#  name = "Publications"
+#  url = "#featured"
+#  weight = 40
 
 [[main]]
   name = "Contact"
