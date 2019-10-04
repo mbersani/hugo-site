@@ -22,13 +22,13 @@ Link to the live website: [FM Teaching Committee webpage](https://fme-teaching.g
  6. Make the changes public, pushing the generated html to the public
     repository:
 
-   1. `cd public`
-   2. `git add *`
-   3. `git commit -am "Update webpage."`
-   4. `git push`
+    1. `cd public`
+    2. `git add *`
+    3. `git commit -am "Update webpage."`
+    4. `git push`
 
  7. Push your changes to this repository:
 
-   1. Add the files that were changed with `git add`
-   2. `git commit -am "Update webpage."`
-   3. `git push`
+    1. Add the files that were changed with `git add`
+    2. `git commit -am "Update webpage."`
+    3. `git push`
