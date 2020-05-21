@@ -27,7 +27,7 @@ image:
 #   Otherwise, set `projects = []`.
 #projects: []
 ---
-Present at the meeting: Catherine Dubois, Kristin Rozier, Alexandra Mendes, João Ferreira, Claudio Menghi, Klaus Havelund, Emil Sekerinski, Brijesh Dongol, Graeme Smith and Luigia Petre.
+Present at the meeting: Catherine Dubois, Kristin Rozier, Alexandra Mendes, João Ferreira, Claudio Menghi, Klaus Havelund, Emil Sekerinski, Brijesh Dongol, Graeme Smith and Luigia Petre.
 
 1. We started by a round table introduction of everyone present
 - We briefly reviewed the slides previously distributed about the current vision of the application and the COST format
