@@ -46,40 +46,17 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-Our objectives are:
 
- 1. To revive bring up-to-date an [old database of formal methods courses](http://www4.di.uminho.pt/FME-SoE/resources.html) taught worldwide. We plan to
-review this database yearly. The current FM course repository is [available
-online](courses). You can contribute courses using the [form below](#fm-courses).
+The website is intended to support industry in the use of formal methods, and will include a listing of:
+1. formal methods (free as well as commercial) 
 
- 2. To setup a repository of formal methods case studies, containing simpler as
-well as more complex examples of using formal methods. This can be liken to the
-Github repository for software or the Biomodels database for computational
-models of biological processes. The simpler examples can be for instance used
-in teaching, while the more complex for (self-)learning various formal methods
-and for demonstrating the formal methods strength to, for instance, industry.
+2. industry users of formal methods 
 
- 3. To setup a secured repository of exam exercises for formal method courses.
-These will be available only to teachers.
+3. case studies, success stories, evaluations 
 
- 4. To work towards achieving a BoK (Body of Knowledge) in Formal Methods, that
-can enable self-learning as well as various future certifications in Formal
-Methods. This objective will start up from [earlier efforts in this direction](http://formalmethods.wikia.com/wiki/FMBoK).
+4. useful links, including links to teachning material 
 
- 5. To setup a list of "summer" schools in Formal Methods.
+## Definition of Formal Methods
+It can be difficult to precisely define what is a formal method. A popular formulation is that it is a technique for developing correct software which is based on mathematical rigorius principles. The Wikipedia offers a more elaborate definition.
 
-
-In the long run, we have the following goals:
-
- 1. We plan to coordinate "providers" and "consumers" of Formal Methods, so that
-when some researcher or industrial partner needs certain knowledge in Formal
-Methods, we can advice where to address these needs.
-
- 2. We plan to investigate whether certain degrees in Formal Methods are feasible.
-We aim to see whether an International MSc program in Formal Methods can be
-organised, for instance.
-
- 3. We plan to make industry and life sciences beneficiaries of Formal Methods, by
-providing case studies from Academia to Industry/Science to demonstrate
-potential and by getting interesting/real life problems to analyse from
-Industry/Science to Academia.
+The benefit of using formal methods is intended to be more reliable software and hardware systems. Also productivity gains can be expected with some methods. Some formal methods provide a structured rigorous way to think about a problem up front, which in itself has advantages (even in lack of tool support). Other formal methods are code oriented, and can ensure that written code is correct.

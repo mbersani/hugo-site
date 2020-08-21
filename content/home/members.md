@@ -49,16 +49,22 @@ subtitle = ""
 
 The committee has members from all over the world:
 
- - [Brijesh Dongol](https://brijeshdongol.github.io), University of Surrey, UK
- - [Catherine Dubois](http://www.ensiie.fr/~dubois), ENSIIE, France
- - [João F. Ferreira](http://joaoff.com), IST, University of Lisbon, Portugal
- - [Rustan Leino](http://leino.science), Amazon Web Services, US
- - [Alexandra Mendes](http://archimendes.com), University of Beira Interior, Portugal
- - [Luigia Petre](http://users.abo.fi/lpetre) (chair), Åbo Akademi University, Finland 
- - [Leila Ribeiro](http://www.inf.ufrgs.br/~leila), Federal University of Rio Grande do Sul, Brazil
- - [Pierluigi San
-   Pietro](https://www.deib.polimi.it/ita/personale/dettagli/355798), Politecnico di Milano, Italy
- - [Graeme Smith](http://staff.itee.uq.edu.au/smith), The University of Queensland, Australia
- - [Kenji Taguchi](https://www.linkedin.com/in/kenji-taguchi-22727b), CAV, Japan
 
-We also keep a [list of previous members](previous-members).
+- [Nikolaj Bjorner](https://www.microsoft.com/en-us/research/people/nbjorner), Microsoft Research, USA
+- [Jonathan Bowen](https://en.wikipedia.org/wiki/Jonathan_Bowen), London South Bank University, UK
+- [Alessandro Cimatti](https://es-static.fbk.eu/people/cimatti), FBK Trento, Italy
+- [Rance Cleaveland](https://www.cs.umd.edu/~rance), Maryland University, USA
+- [Jan Friso Groote](https://www.tue.nl/en/research/researchers/jan-friso-groote), Eindhoven University, The Netherlands
+- [John Hatcliff](http://people.cs.ksu.edu/~hatcliff/cms), Kansas State University, USA
+- [Klaus Havelund](http://www.havelund.com/), Jet Propulsion Laboratory/NASA, USA (chair)
+- [Gerwin Klein](http://www.cse.unsw.edu.au/~kleing), University of NewSouth Wales, Australia
+- [Thierry Lecompte](https://www.researchgate.net/profile/Thierry_Lecomte), ClearSy, France
+- [Colin O’Halloran](https://www.linkedin.com/in/colin-o-halloran-9887975/?originalSubdomain=uk), D-RisQ Ltd., UK
+- [Jan Peleska](http://www.informatik.uni-bremen.de/agbs/jp), Bremen University, Germany
+- [Shaz Qadeer](https://www.linkedin.com/in/shaz-qadeer-88b3332), Facebook, USA
+- [Markus Voelter](http://voelter.de/), Volter Consulting, Germany
+
+
+
+
+# We also keep a [list of previous members](previous-members).

@@ -13,30 +13,30 @@
   url = "#objectives"
   weight = 20
 
-[[main]]
-  name = "Inspiration"
-  url = "#inspiration"
-  weight = 25
+#[[main]]
+#  name = "Inspiration"
+#  url = "#inspiration"
+#  weight = 25
 
-[[main]]
-  name = "FM Courses"
-  url = "#fm-courses"
-  weight = 30
+#[[main]]
+#  name = "FM Courses"
+#  url = "#fm-courses"
+#  weight = 30
 
 [[main]]
   name = "Events"
   url = "#events"
   weight = 35
 
-[[main]]
-  name = "Members"
-  url = "#members"
-  weight = 40
+#[[main]]
+#  name = "Members"
+#  url = "#members"
+#  weight = 40
 
-[[main]]
-  name = "Meetings"
-  url = "#meetings"
-  weight = 50
+#[[main]]
+#  name = "Meetings"
+#  url = "#meetings"
+#  weight = 50
 
 #[[main]]
 #  name = "Posts"

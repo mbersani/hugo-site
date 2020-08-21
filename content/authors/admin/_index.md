@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Formal Methods Teaching Committee
+name: Formal Methods Industry Committee
 
 # Username (this should match the folder name)
 authors:
@@ -18,7 +18,7 @@ superuser: true
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: The aim of the FME Teaching Committee is to support a worldwide improvement in learning formal methods, mainly by teaching but also via self-learning.
+bio: 
 
 
 #interests:
@@ -48,10 +48,10 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/formalmtds
+  link: 
 - icon: github
   icon_pack: fab
-  link: https://github.com/fme-teaching
+  link: https://fme-industry.github.io/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv

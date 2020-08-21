@@ -16,8 +16,8 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "FMTea 2019"
-  content = "Formal Methods Teaching Workshop and Tutorial, affiliated with FM 2019, 7 October 2019, Porto, Portugal"
+  title = "Formal Methods 2022"
+  content = "Formal Methods conference 2021, Nov 20, 2021 - Nov 26, 2021, Beijing, China"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -30,13 +30,13 @@ height = ""
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Learn more"
-  cta_url = "https://fmtea.github.io"
+  cta_url = "http://formalmethods2021.csp.escience.cn"
   cta_icon_pack = "fas"
   cta_icon = "arrow-circle-right"
 
 [[item]]
-  title = "FM Courses Database"
-  content = "We maintain a searchable database of formal methods courses taught worldwide."
+  title = "Formal Methods meets Industry @ FM 2019"
+  content = "Complementing the academic program, the Industry Day targets industrial development of formal methods, and the FM Tool Exhibition will provide a forum for developers of academic or industrial tools that support the use of formal methods in different stages of system and software development."
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -49,7 +49,7 @@ height = ""
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Learn more"
-  cta_url = "https://fme-teaching.github.io/courses"
+  cta_url = "http://formalmethods2019.inesctec.pt/?page_id=2101"
   cta_icon_pack = "fas"
   cta_icon = "arrow-circle-right"
 

@@ -6,7 +6,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear in.
 
-title = "Formal Methods Teaching Committee"
+title = "Formal Methods & Industry"
 
 # Add/remove as many `[[feature]]` blocks below as you like.
 # 
@@ -16,19 +16,19 @@ title = "Formal Methods Teaching Committee"
   icon = "handshake"
   icon_pack = "fas"
   name = "Events & Meetings"
-  description = "We organise [events](#events) and [meetings](#meetings)."
+  description = "Relevant [events](#events) and [meetings](#meetings)."
   
 [[feature]]
-  icon = "database"
+  icon = "industry"
   icon_pack = "fas"
-  name = "Courses Database"
-  description = "We maintain a database of [FM courses](#fm-courses)."
+  name = "Companies"
+  description = "A collection of [companies](https://fme-industry.github.io/companies) that adopted FM."
 
 [[feature]]
-  icon = "university"
+  icon = "flag"
   icon_pack = "fas"
   name = "Case Studies"
-  description = "We maintain a list of  FM case studies."
+  description = "A collection of industrial [case studies](https://fme-industry.github.io/casestudies)."
 
 
 
@@ -40,5 +40,4 @@ title = "Formal Methods Teaching Committee"
 #author = "admin"
 +++
 
-The aim of the FME Teaching Committee is to support a worldwide improvement in
-learning formal methods, mainly by teaching but also via self-learning.
+The aim of the FME Industry Committee is to support the infusion of formal methods into industry, as well as to obtain feedback from industry as to the usability of various methods in practice.
