@@ -33,15 +33,15 @@
 #  url = "#members"
 #  weight = 40
 
-#[[main]]
-#  name = "Meetings"
-#  url = "#meetings"
-#  weight = 50
+[[main]]
+  name = "Meetings"
+  url = "#meetings"
+  weight = 50
 
-#[[main]]
-#  name = "Posts"
-#  url = "#posts"
-#  weight = 20
+[[main]]
+  name = "Posts"
+  url = "#posts"
+  weight = 20
 
 #[[main]]
 #  name = "Projects"

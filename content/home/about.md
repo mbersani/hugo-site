@@ -22,13 +22,13 @@ title = "Formal Methods & Industry"
   icon = "industry"
   icon_pack = "fas"
   name = "Companies"
-  description = "A collection of [companies](https://fme-industry.github.io/companies) that adopted FM."
+  description = "A collection of [companies](companies/) that adopted FM."
 
 [[feature]]
   icon = "flag"
   icon_pack = "fas"
   name = "Case Studies"
-  description = "A collection of industrial [case studies](https://fme-industry.github.io/casestudies)."
+  description = "A collection of industrial [case studies](casestudies/)."
 
 
 

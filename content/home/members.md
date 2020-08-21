@@ -6,7 +6,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 60  # Order that this section will appear.
 
 title = "Members"
 subtitle = ""
@@ -65,6 +65,4 @@ The committee has members from all over the world:
 - [Markus Voelter](http://voelter.de/), Volter Consulting, Germany
 
 
-
-
-# We also keep a [list of previous members](previous-members).
+[List of previous members](previous-members).

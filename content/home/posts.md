@@ -4,10 +4,10 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 35  # Order that this section will appear.
 
-title = "Inspiration for Teaching FM"
+title = "Recent Posts"
 subtitle = ""
 
 [content]
@@ -26,7 +26,7 @@ subtitle = ""
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
-    category = "Inspiration"
+    category = "Posts"
     publication_type = ""
     exclude_featured = false
   
@@ -65,4 +65,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
