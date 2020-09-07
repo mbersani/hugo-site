@@ -28,6 +28,6 @@ image:
 projects: []
 ---
 
-**Some event** 
+**Some great event** 
 
 Event description

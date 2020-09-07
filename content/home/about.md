@@ -4,7 +4,7 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear in.
+weight = 10  # Order that this section will appear in.
 
 title = "Formal Methods & Industry"
 
@@ -31,13 +31,11 @@ title = "Formal Methods & Industry"
   description = "A collection of industrial [case studies](casestudies/)."
 
 
-
-
-
 # Choose the user profile to display
 # This should be the username of a profile in your `content/authors/` folder.
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 #author = "admin"
 +++
 
-The aim of the FME Industry Committee is to support the infusion of formal methods into industry, as well as to obtain feedback from industry as to the usability of various methods in practice.
+Welcome to the [Formal Methods Europe](http://www.fmeurope.org) (FME) industry oriented website.
+
