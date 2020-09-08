@@ -47,4 +47,5 @@ subtitle = ""
  css_class = ""
 +++
 
-Under construction.
+This is a list of applications of formal methods in industry.
+

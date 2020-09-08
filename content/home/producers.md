@@ -49,4 +49,21 @@ subtitle = ""
 
 This is a list of companies offering formal methods tools and/or consulting.
 
+- [AbsInt](https://www.absint.com)
+  * Tool: abstract interpretation (static analysis)
 
+- [Clearsy](https://www.clearsy.com), France.
+  * Domain: railways
+
+- [Verified Systems International GmbH](www.verified.de), Bremen, Germany
+  * Services: consulting, formal verification by model checking, abstract interpretation, or theorem proving, and conventional techniques are offered like review, code inspection, testing.
+  * Tool: Model-based Testing Tool [RT-Tester](https://www.verified.de/products/model-based-testing) (RTT-MBT),
+  based on formal SysML models, derives symbolic test cases as LTL 
+  formulas, creates concrete test data and procedures by SMT 
+  solving. 
+  * Tool: Source to Object Code Traceability Tool STO-Analyzer 
+  performs partial verification of object code against C-code, 
+  according to DAL-A verification requirements from RTCA DO-178C.
+
+- [Verum](https://verum.com)
+  * Tool: [Dezyne](https://verum.com/discover-dezyne/)
